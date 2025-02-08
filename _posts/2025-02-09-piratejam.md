@@ -1,10 +1,13 @@
 ---
-title: I'll be participating in the PirateSofrware GameJam 17!
+title: I'll be participating in the PirateSofrware GameJam 17! and JoinFedivri
 category: Gamedev
 tags:
-- Spock Engine
+- English
+- ForgeJo
+- JoinFedivri
 - PirateJam
 - PirateJam 17
+- Spock Engine
 ---
 
 I'll be participating in [PirateSoftware](https://gopiratesoftware.com/)'s 17th [GameJam](https://itch.io/jam/pirate)!
@@ -20,5 +23,7 @@ a concept that nearly doesn't exist. This means it'll use a limited variation on
 But it also means it'll be very hard to complete the engine on time.
 But I'll try, and that's what's important, is it not?
 
-I'd make this longer, but its late right now—do stay tuned!
+But this also comes with a sadder announcement. This is me trying to focus on and fix my own life, as a part of an attmept to pursue a career in gamedev (as an Israeli, I'm statisticslly likely to succeed: all five Israeli gamedevs seem to do great /j). From now on (or really, since Decemeber), I'll be contributing less to JoinFedivri on the code side of things. But I'm helping translate Codeberg to Hebrew (I've [proposed](https://codeberg.org/forgejo/governance/issues/220) myself as member of the Forgejo localization team) as I still care about the project and want to help. I'm still the ratifier, but due to advances from the concept stage to the prototyping stage, I don't think it matters anymore.
+
+I'd make this longer, but it's late right now—do stay tuned!
 I'll be making a more detailed post in the future.
