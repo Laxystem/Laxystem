@@ -1,4 +1,5 @@
 ---
+layout: post
 title: I'll be participating in the PirateSofrware GameJam 17! and JoinFedivri
 category: Gamedev
 tags:
