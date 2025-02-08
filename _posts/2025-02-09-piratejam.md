@@ -1,13 +1,13 @@
 ---
 layout: post
-title: I'll be participating in the PirateSofrware GameJam 17! and JoinFedivri
+title: "I'll be participating in the PirateSofrware GameJam 17! and JoinFedivri"
 category: Gamedev
 tags:
 - English
 - ForgeJo
 - JoinFedivri
 - PirateJam
-- PirateJam 17
+- "PirateJam 17"
 - Spock Engine
 ---
 
