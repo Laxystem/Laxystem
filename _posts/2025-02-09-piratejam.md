@@ -8,7 +8,7 @@ tags:
 - JoinFedivri
 - PirateJam
 - "PirateJam 17"
-- Spock Engine
+- "Spock Engine"
 ---
 
 I'll be participating in [PirateSoftware](https://gopiratesoftware.com/)'s 17th [GameJam](https://itch.io/jam/pirate)!
