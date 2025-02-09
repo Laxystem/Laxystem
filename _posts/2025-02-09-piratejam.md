@@ -17,7 +17,7 @@ It's scheduled to happen on July 17th to 31st, in five months.
 
 Till then, I'll be working on the [Spock game engine](https://codeberg.org/Laxystem/Spock)
 (it's not dead, I have tons of unpushed changes). Here's [its documentation](https://codeberg.laxla.quest/Spock)
-(if the link doesn't work, try [this one](https://github.laxla.quest/Spock)).a
+(if the link doesn't work, try [this one](https://github.laxla.quest/Spock)).
 
 I'm attempting to make Spock a fully concurrent game engine,
 a concept that nearly doesn't exist. This means it'll use a limited variation on ECS.
