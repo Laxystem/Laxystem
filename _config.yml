@@ -62,8 +62,8 @@ defaults:
         entries_layout: grid
 
 author: Laxystem
-category_archive_path: "/blog/#"
-tag_archive_path: "/blog/browse/tags/#"
+category_archive_path: "/blog/"
+tag_archive_path: "/blog/browse/tags/"
 permalink: /blog/:categories/:year/:month/:day/:title
 
 jekyll-archives:
