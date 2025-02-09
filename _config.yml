@@ -86,8 +86,10 @@ footer_links:
     icon: fab fa-github-square
   - title: Mastodon (English)
     url: https://tech.lgbt/@laxla
+    icon: fa-brands fa-mastodon
   - title: Mastodon (Hebrew)
     url: https://tooot.im/@laxystem
+    icon: fa-brands fa-mastodon
   - title: Sitemap
     url: sitemap.xml
     icon: fas fa-map
