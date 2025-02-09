@@ -62,8 +62,8 @@ defaults:
         entries_layout: grid
 
 author: Laxystem
-category_archive_path: "/blog/"
-tag_archive_path: "/blog/browse/tags/"
+category_archive_path: "/blog/#"
+tag_archive_path: "/blog/browse/tags/#"
 permalink: /blog/:categories/:year/:month/:day/:title
 
 jekyll-archives:
@@ -83,6 +83,7 @@ footer_links:
     icon: fas fa-rss-square
   - title: GitHub
     url: https://GitHub.com/Laxystem/Laxystem
+    icon: fab fa-github-square
   - title: Mastodon (English)
     url: https://tech.lgbt/@laxla
   - title: Mastodon (Hebrew)
