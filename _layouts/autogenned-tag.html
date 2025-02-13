@@ -1,9 +1,10 @@
 ---
 layout: page
+navigation: blog
 ---
 
 {{ content }}
 
 <div class="entries-{{ page.entries_layout | default: 'list' }}">
-  {% include posts-tag.html taxonomy=page.title %}
+    {% include posts-tag.html taxonomy=page.title %}
 </div>

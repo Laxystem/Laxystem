@@ -1,10 +1,9 @@
 ---
-layout: post
 title: "About JoinFedivri"
 category: Fedivri
 tags:
   - English
-  - JoinFedivri 
+  - JoinFedivri
 ---
 
 Well, if you haven't heard, I'm the Ratifier of [JoinFedivri](https://codeberg.org/JoinFedivri).

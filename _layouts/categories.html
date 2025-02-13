@@ -54,7 +54,8 @@ layout: page
     {% for category_name in category_names_list %}
       <li>
         <a href="#{{ category_name | slugify }}">
-          <strong>{{ category_name }}</strong> <span class="taxonomy-count">{{ category_count }}</span>
+            <strong>{{ category_name }}</strong>
+            <span class="taxonomy-count">{{ category_count }}</span>
         </a>
       </li>
     {% endfor %}

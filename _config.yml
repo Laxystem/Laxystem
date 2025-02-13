@@ -50,16 +50,16 @@ google_fonts:
 defaults:
   - scope:
       path: "_posts"
-      type: posts
+      type: "posts"
     values:
-      layout: post
-      share: true
+      layout: "post"
+      share: false
       author: Laxystem
       comments: false
   - scope:
       path: ""
     values:
-        entries_layout: grid
+      entries_layout: grid
 
 author: Laxystem
 category_archive_path: "/blog/"
@@ -84,10 +84,6 @@ footer_links:
   - title: GitHub
     url: https://GitHub.com/Laxystem/Laxystem
     icon: fab fa-github-square
-  - title: Mastodon (English)
-    url: https://tech.lgbt/@laxla
-  - title: Mastodon (Hebrew)
-    url: https://tooot.im/@laxystem
   - title: Sitemap
     url: sitemap.xml
     icon: fas fa-map
