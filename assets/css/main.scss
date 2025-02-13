@@ -15,31 +15,113 @@ $meta-font-family: $serif-font-family;
 
 @import "so-simple";
 
-h1, h2, h3, h4, h5, h6, blockquote {
-  font-family: $serif-font-family;
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+blockquote {
+    font-family: $serif-font-family;
 }
 
-h1, h2 {
-  font-style: italic;
+h1,
+h2 {
+    font-style: italic;
 }
 
 #primary-nav .lax-selected a {
-  font-weight: bold;
+    font-weight: bold;
 }
 
 #primary-nav a {
-  font-family: "Josefin Sans", $sans-serif-font-family;
+    font-family: "Josefin Sans", $sans-serif-font-family;
 }
 
 .taxonomy-title {
-  font-style: normal;
+    font-style: normal;
 }
 
 .page-share {
-  display: none;
+    display: none;
 }
 
-.site-title {
-  font-family: $sans-serif-font-family;
-  font-style: normal;
+.site-title,
+.toc-wrapper h2 {
+    font-family: $sans-serif-font-family;
+    font-style: normal;
+}
+
+p:has(+ ul),
+p:has(+ ol) {
+    margin-bottom: auto;
+}
+
+$nav-background-color: mix(#000, #252a34, 30%);
+$nav-color: #aeaeae;
+
+.toc-wrapper * {
+    color: $nav-color !important;
+    background-color: $nav-background-color !important;
+}
+
+.toc-wrapper {
+    border: none;
+}
+
+.toc-wrapper li ol {
+    padding-left: 1rem;
+}
+
+.toc-wrapper li ol li::marker {
+    font-family: $serif-font-family;
+    font-style: italic;
+}
+
+.toc-wrapper li {
+    padding-bottom: 0;
+}
+
+#toc-toggle {
+    border-radius: 0.5rem;
+}
+
+#toc-toggle:has(+ .js-toc-is-open) {
+    border-radius: 0.5rem 0.5rem 0 0;
+}
+
+#markdown-toc > :last-child {
+    padding-bottom: 0.6em;
+}
+
+#markdown-toc {
+    padding-right: 2rem;
+    border-radius: 0 0 0.5rem 0.5rem;
+}
+
+a[href]:not(:where(
+  /* exclude hash only links */
+  [href^="#"],
+  /* exclude javascript only links */
+  [href^="javascript:" i],
+  /* exclude relative but not double slash only links */
+  [href^="/"]:not([href^="//"]),
+  /* domains to exclude */
+  [href*="//laxla.quest"],
+  /* exlcude links to subpage */
+  :not([href*="/"]),
+  /* classes to exclude */
+  .social-icon,
+  .u-url
+)):after {
+    content: "↗";
+}
+
+.e-content p,
+.e-content li {
+    text-align: justify;
+}
+
+[role="doc-noteref"] {
+    font-size: 100%;
 }

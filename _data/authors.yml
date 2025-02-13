@@ -1,0 +1,15 @@
+Laxystem:
+  name: "Laxystem"
+  picture: "https://avatars.githubusercontent.com/u/127752744"
+  links:
+    - title: Mastodon (English)
+      url: https://tech.lgbt/@laxla
+      icon: fab fa-mastodon
+    - title: Mastodon (Hebrew)
+      url: https://tooot.im/@laxystem
+      icon: fab fa-mastodon
+    - title: GitHub
+      url: https://github.com/Laxystem
+      icon: fab fa-github
+    - title: Codeberg
+      url: https://codeberg.org/Laxystem
