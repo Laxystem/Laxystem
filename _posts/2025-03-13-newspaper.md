@@ -1,5 +1,5 @@
 ---
-title: "An American Newspaper in 2027"
+title: "An American Newspaper from 2027"
 category: Politics
 tags:
   - English
