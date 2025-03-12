@@ -6,7 +6,7 @@ tags:
   - Fiction
 ---
 
-*This is an extract from an American newspaper in 2027, during WW3, two weeks after Qatari documents including proof Netanjahu converted to Islam in 2018 were leaked.*
+*This is an extract from an American newspaper from 2027, during WW3, two weeks after Qatari documents including proof Netanjahu converted to Islam in 2018 were leaked to the general public.*
 
 # Purple Resistance Overthrows Israeli Government
 *Israel*—After fourteen days of nation-wide protests, road-blocking, and other illegal activites committed as a part of its ‘no economy, no state’ strategy,
