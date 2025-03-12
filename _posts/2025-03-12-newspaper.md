@@ -9,7 +9,7 @@ tags:
 *This is an extract from an American newspaper from 2027, during WW3, two weeks after Qatari documents including proof Netanjahu converted to Islam in 2018 were leaked to the general public.*
 
 # Purple Resistance Overthrows Israeli Government
-*Israel*—After fourteen days of nation-wide protests, road-blocking, and other illegal activites committed as a part of its ‘no economy, no state’ strategy,
+*Israel*—After fourteen days of nation-wide protests, road-blocking, and other illegal activites committed as part of its ‘no economy, no state’ strategy,
 the Israeli purple resistance famously considered by High President Trump to be ‘practically Nazis’ and ‘Jewish self-haters’ seize Jerusalem,
 with Prime Minister Netanjahu taken hostage by the terrorists who claimed he was ‘attempting to escape to the United States’.
 His wellbeing is currently unknown. The purple resistance has formed a transitionary government and declared the United States of America as an ‘enemy state’.
@@ -27,19 +27,19 @@ was committed by indigineous Palestinians with alleged ties to the Palestinian A
 supposedly in cooperation with the purple resistance.
 
 The State of Gaza was ‘completely and utterly expelled from the Levant’ said Department of War experts,
-‘as a part of a European attempt to steal lands that rightfully and legally belong to the United States of America’.
+‘as part of a European attempt to steal lands that rightfully and legally belong to the United States of America’.
 This publication has managed to find no evidence as to what happened to the American troops stationed at the area,
 and denies any so-called evidence to the possibility they have been ordered to suicide;
 ‘it is as if God himself collected them to the heavens’, said the High Inquistor.
 
 # Opinion: ‘Peace in the Middle East’, claim Europeans
-*Europe*—As a part of Europe’s attempt of becoming ‘great again’ (as if Europe ever was great),
+*Europe*—As part of Europe’s attempt of becoming ‘great again’ (as if Europe ever was great),
 copying anything remotely American whenever possible,
 Dutch newspapers have today declared that ‘Endlich ist Frieden im Nahen Osten eingekehrt’,
 or in denazified American, ‘Peace in the Middle East, at last!’,
-claimed the warmongerers (oh, the irony) – as a part of their truth-bending ritual of ‘Wochenzeitung’,
+claimed the warmongerers (oh, the irony) – as part of their truth-bending ritual of ‘Wochenzeitung’,
 this brainwashed once-great people celebrate the purple resistance,
-claiming that this band of nosed slugs, the lowest of the low, are related to Dutchland’s own Die Linke!
+claiming that this band of nosed slugs, the lowest of the low, are related to Dutchland’s own *Die Linke*!
 How can a Jew and an Arab have anything to do with (admittedly, corrupted beyond repair) people of pure Arian descent?
 The Europeans have clearly risen to new levels of propganda with this one, and that’s not an easy thing to say when it comes to Europeans.
 
